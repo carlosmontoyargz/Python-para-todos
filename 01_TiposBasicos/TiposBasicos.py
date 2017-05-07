@@ -7,5 +7,5 @@ c = "Hola mundo!"
 e = 23
 
 # Podemos comprobarlo con la funcion type
-print type(c);
-print type(e);
+print type(c)
+print type(e)
